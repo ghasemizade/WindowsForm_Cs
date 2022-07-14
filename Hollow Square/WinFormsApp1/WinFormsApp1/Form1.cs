@@ -14,13 +14,12 @@ namespace WinFormsApp1
             formGraphics = this.CreateGraphics();
             //formGraphics.DrawLines(new (0, 0, 200, 200));
             Pen pen = new Pen(Color.FromArgb(255, 0, 0, 0));
-            formGraphics.DrawLine(pen, 10, 10, 300, 10);
+            formGraphics.DrawLine(pen, 10, 10, 150, 10);
             formGraphics.DrawLine(pen, 10, 10, 10, 150);
-            formGraphics.DrawLine(pen, 300, 150, 10, 150);
-            formGraphics.DrawLine(pen, 300, 10, 300, 150);
+            formGraphics.DrawLine(pen, 150, 150, 10, 150);
+            formGraphics.DrawLine(pen, 150, 10, 150, 150);
             myBrush.Dispose();
             formGraphics.Dispose();
-            
         }
     }
 }
