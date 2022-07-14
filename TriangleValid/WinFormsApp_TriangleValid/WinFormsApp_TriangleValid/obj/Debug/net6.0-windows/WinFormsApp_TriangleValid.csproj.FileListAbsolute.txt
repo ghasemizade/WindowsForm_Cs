@@ -1,0 +1,17 @@
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\bin\Debug\net6.0-windows\WinFormsApp_TriangleValid.exe
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\bin\Debug\net6.0-windows\WinFormsApp_TriangleValid.deps.json
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\bin\Debug\net6.0-windows\WinFormsApp_TriangleValid.runtimeconfig.json
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\bin\Debug\net6.0-windows\WinFormsApp_TriangleValid.dll
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\bin\Debug\net6.0-windows\WinFormsApp_TriangleValid.pdb
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\WinFormsApp_TriangleValid.csproj.AssemblyReference.cache
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\WinFormsApp_TriangleValid.Form1.resources
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\WinFormsApp_TriangleValid.csproj.GenerateResource.cache
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\WinFormsApp_TriangleValid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\WinFormsApp_TriangleValid.AssemblyInfoInputs.cache
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\WinFormsApp_TriangleValid.AssemblyInfo.cs
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\WinFormsApp_TriangleValid.csproj.CoreCompileInputs.cache
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\WinFormsApp_TriangleValid.dll
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\refint\WinFormsApp_TriangleValid.dll
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\WinFormsApp_TriangleValid.pdb
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\WinFormsApp_TriangleValid.genruntimeconfig.cache
+C:\Data\WindowsForm_Cs\TriangleValid\WinFormsApp_TriangleValid\WinFormsApp_TriangleValid\obj\Debug\net6.0-windows\ref\WinFormsApp_TriangleValid.dll
